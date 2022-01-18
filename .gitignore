@@ -27,3 +27,11 @@
 /upload/
 
 # End of https://www.toptal.com/developers/gitignore/api/bitrix
+
+.DS_Store
+
+Thumbs.db
+
+/.idea/
+
+/local/vendor/
